@@ -94,7 +94,7 @@ export default {
 </script>
 
 <style lang="scss">
-@import '~bulma/sass/utilities/variables';
+@import '~bulma/sass/utilities/_all';
 
 input[type=range].slider {
   $radius: 290486px;
